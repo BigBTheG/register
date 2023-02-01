@@ -1,0 +1,19 @@
+{
+  "$schema": "../schemas/domain.schema.json",
+
+  "description": "school helper i made",
+
+  "domain": "is-cool.dev",
+  "subdomain": "school-studio-help",
+
+  "owner": {
+    "email": "baileymagoffin1234@gmail.com"
+  },
+
+  "record": {
+    CNAME ["68f50394-2d21-412a-927d-292d0c90afe7.id.repl.co"]
+    TXT ["replit-verify=68f50394-2d21-412a-927d-292d0c90afe7"]
+  },
+
+  "proxy": false
+}
